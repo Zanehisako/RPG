@@ -1,0 +1,8 @@
+﻿  The vcpkg manifest was disabled, but we found a manifest file in E:\Games\RPG\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  Main.cpp
+E:\Games\RPG\Main.cpp(306,17): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  RPG.vcxproj -> E:\Games\RPG\x64\Debug\RPG.exe

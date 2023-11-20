@@ -1,0 +1,11 @@
+E:/Games/RPG/vcpkg_installed/vcpkg/pkgs/imgui_x86-windows/lib/imgui.lib
+E:/Games/RPG/vcpkg_installed/vcpkg/pkgs/imgui_x86-windows/include/imgui.h
+E:/Games/RPG/vcpkg_installed/vcpkg/pkgs/imgui_x86-windows/include/imconfig.h
+E:/Games/RPG/vcpkg_installed/vcpkg/pkgs/imgui_x86-windows/include/imgui_internal.h
+E:/Games/RPG/vcpkg_installed/vcpkg/pkgs/imgui_x86-windows/include/imstb_textedit.h
+E:/Games/RPG/vcpkg_installed/vcpkg/pkgs/imgui_x86-windows/include/imstb_rectpack.h
+E:/Games/RPG/vcpkg_installed/vcpkg/pkgs/imgui_x86-windows/include/imstb_truetype.h
+E:/Games/RPG/vcpkg_installed/vcpkg/pkgs/imgui_x86-windows/include/imgui_stdlib.h
+E:/Games/RPG/vcpkg_installed/vcpkg/pkgs/imgui_x86-windows/share/imgui/imgui-config.cmake
+E:/Games/RPG/vcpkg_installed/vcpkg/pkgs/imgui_x86-windows/share/imgui/imgui-targets.cmake
+E:/Games/RPG/vcpkg_installed/vcpkg/pkgs/imgui_x86-windows/share/imgui/imgui-targets-release.cmake

@@ -1,0 +1,10 @@
+-- Note: imgui only supports static library linkage. Building static library.
+-- Downloading https://github.com/ocornut/imgui/archive/v1.89.6.tar.gz -> ocornut-imgui-v1.89.6.tar.gz...
+-- Extracting source C:/Users/yassi/AppData/Local/vcpkg/downloads/ocornut-imgui-v1.89.6.tar.gz
+-- Using source at E:/Games/RPG/vcpkg_installed/vcpkg/blds/imgui/src/v1.89.6-3b94b94077.clean
+-- Found external ninja('1.11.0').
+-- Configuring x86-windows
+-- Building x86-windows-dbg
+-- Building x86-windows-rel
+-- Installing: E:/Games/RPG/vcpkg_installed/vcpkg/pkgs/imgui_x86-windows/share/imgui/copyright
+-- Performing post-build validation
